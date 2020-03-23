@@ -1,14 +1,7 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
-    "option_window_colour": {
-        "Value": 4278190080
-    },
-    "option_gameguid": "ba6b6081-69e1-429f-a59f-05b89fd653b9",
+    "option_gameguid": "113912ab-6032-4810-9f89-83f44255b038",
     "option_game_speed": 60,
-<<<<<<< HEAD
-    "option_lastchanged": "23 March 2020 17:48:34",
-=======
-    "option_lastchanged": "23 March 2020 11:07:05",
->>>>>>> 51606aeaec4483f4cbd7fd3824878303e2db6d94
+    "option_lastchanged": "23 March 2020 11:09:05",
     "option_sci_usesci": true
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
